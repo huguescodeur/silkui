@@ -7,7 +7,7 @@ name = "silkui"
 version = "1.2.1"
 description = "UI components for Django — copy, own, customize. Inspired by shadcn/ui."
 authors = [
-    {name = "Hugues Codeur", email = "huguescodeur@gmail.com"}
+    {name = "HGS", email = "goliyaohugues@gmail.com"}
 ]
 readme = "README.md"
 requires-python = ">=3.10"
